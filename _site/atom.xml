@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Chua Yew Wee</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2017-05-04T00:44:14+08:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Chua Yew Wee</name>
+   <email>chuayewwee@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Speech Sentiment Analyzer</title>
+   <link href="http://localhost:4000/2017/05/03/soundly/"/>
+   <updated>2017-05-03T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/05/03/soundly</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://weewey.github.io/soundly/&quot;&gt;&lt;img src=&quot;/public/soundly.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;An app built on &lt;strong&gt;create-react-app&lt;/strong&gt; that uses &lt;em&gt;Web Speech API&lt;/em&gt; to convert speech to text and get the sentiment of the text via &lt;em&gt;Azure Text Analytics API&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Accenture AI HR solution</title>
+   <link href="http://localhost:4000/2017/04/20/aihackathon/"/>
+   <updated>2017-04-20T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/04/20/aihackathon</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/public/chatbot.png&quot; alt=&quot;alt text&quot; title=&quot;Chatbot Web Interface&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Accenture AI solution for recruiting, shortlisting employees skilled in AI with a &lt;strong&gt;classification model&lt;/strong&gt;, having a &lt;strong&gt;chatbot built in Microsoft Bot framework and LUIS&lt;/strong&gt; to score candidates on their AI proficiency and a &lt;strong&gt;R shiny app&lt;/strong&gt; for visualizing the candidates’ interview scores.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Simple React Weather App</title>
+   <link href="http://localhost:4000/2017/04/11/simple-react-app/"/>
+   <updated>2017-04-11T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/04/11/simple-react-app</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://weewey.github.io/weather-app/&quot;&gt;&lt;img src=&quot;/public/react_simple_weather_app.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;A simple weather app built using &lt;strong&gt;React&lt;/strong&gt; with create-react-app and react-bootstrap.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Singlish Chatbot on Slack</title>
+   <link href="http://localhost:4000/2017/03/10/singlish_chatbot/"/>
+   <updated>2017-03-10T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2017/03/10/singlish_chatbot</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;https://chatbotnewsdaily.com/singlish-marathon-chatbot-with-nodejs-aws-and-api-ai-4754897c8d94&quot;&gt;&lt;img src=&quot;https://cdn-images-1.medium.com/max/800/1*lKw8E70d4LlzORdCR3fRAQ.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Singlish Marathon Chatbot on Slack with NodeJS, AWS and API.ai.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>

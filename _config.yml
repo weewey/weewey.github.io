@@ -2,9 +2,9 @@
 permalink:           pretty
 
 # Setup
-title:               Jami Gibbs
-tagline:             Frontend Developer and Designer from Chicago.
-url:                 http://jamigibbs.com
+title:               Chua Yew Wee
+tagline:             Data Analytics and Web Dev
+url:                 http://weewey.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -17,18 +17,19 @@ sass:
 
 # About/contact
 author:
-  name:              Jami Gibbs
+  name:              Chua Yew Wee
   url:               https://twitter.com/jamigibbs
-  email:             jami0821@gmail.com
+  email:             chuayewwee@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/jamigibbs/portfolio
+  repo:              https://github.com/weewey/portfolio
 google_analytics:    UA-3363703-15
-twitter:             jamigibbs
-github:              jamigibbs
-dribbble:            jamigibbs
+# twitter:             wee
+github:              weewey
+facebook:            chuayw
+# dribbble:            jamigibbs
 
 # Gems
 gems:
