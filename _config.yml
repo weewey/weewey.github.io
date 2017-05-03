@@ -4,7 +4,7 @@ permalink:           pretty
 # Setup
 title:               Chua Yew Wee
 tagline:             Data Analytics and Web Dev
-url:                 http://weewey.github.io/
+url:                 https://weewey.github.io/
 paginate:            1
 baseurl:             ""
 
@@ -18,14 +18,14 @@ sass:
 # About/contact
 author:
   name:              Chua Yew Wee
-  url:               https://twitter.com/jamigibbs
+  # url:               https://twitter.com/jamigibbs
   email:             chuayewwee@gmail.com
 
 # Custom vars
 version:             1.0.0
 github:
-  repo:              https://github.com/weewey/portfolio
-google_analytics:    UA-3363703-15
+  repo:              https://github.com/weewey/weewey.github.io
+# google_analytics:    UA-3363703-15
 # twitter:             wee
 github:              weewey
 facebook:            chuayw
