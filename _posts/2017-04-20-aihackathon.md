@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Accenture AI HR solution
-git: 
+title: Accenture AI HR solution <First Runner-Up in Accenture Global AI Hackathon>
+git:
 ---
 
 ![alt text]({{ site.baseurl }}/public/chatbot.png "Chatbot Web Interface")
